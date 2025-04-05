@@ -1,0 +1,9 @@
+{
+    "PincoEnable": false,
+    "PincoLang": ["Russian"],
+    "PincoTime": ["Yekaterinburg"],
+    "PincoLink": 
+    [ 
+          { "Lang":"Russian", "Links": [""]}
+    ]
+ }
